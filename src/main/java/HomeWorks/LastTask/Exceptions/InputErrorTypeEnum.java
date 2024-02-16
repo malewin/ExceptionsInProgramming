@@ -1,10 +1,9 @@
-package HomeWorks.FinalTask.MyExceptios;
+package HomeWorks.LastTask.Exceptions;
 
-public enum InpDataErrType {
+public enum InputErrorTypeEnum {
     DataLengthError,
     NameError,
     DateError,
     PhoneNumberError,
     GenderError
-
 }
